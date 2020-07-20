@@ -6,8 +6,8 @@
 3. Super high data security: 
 a) no file or draft can be deleted accidentally except by damaging
 HDD
-b) everything is encrypted on sub-military level at once. after a quick-key combination (like word ecarlate 321) you need to enter a password
-c) all data stored only in computer hard drives 
+b) everything is encrypted on sub-military (sounds cool) level at once. after a quick-key combination (like word ecarlate 321) you need to enter a password
+c) all data stored only in computer hard drives, no Ourel-style corporations
 4. Multimodal* flexible** hierarchy. 
 *Example of hierarсhy: time, logical (wheel — part of car), etc. It means that files should be sorted (in folders or objects on scheme) like: 2020y contains [jan] [fev] which contains [1 week] [2 week], 
 ** Flexibility means:

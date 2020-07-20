@@ -23,9 +23,13 @@ b) auto-add tags like: add tag "irrelevant" to all files created before 2012 or 
 **Stakeholders that can pay for part of functions if they are designed enough for professional use/integrated with his apps or systems**
 
 — needing reliable storage of information: journalists, small scale politicians, writers, NDA signers
+
 — large collectives, especially those which work on complex systems
+
 — automatization fans (nerds)
+
 — doctors, fitness trainers and coaches to monitor clients using a smart algorithm/members of the movement quantified self 
+
 — any company that needs to improve productivity or keep workers healthy for pc
 
 But my strategy just jet money  to develop a conceived tool for enhancing thinking in general.  Therefore, the solutions chosen for sale should, ideally, allow you to effectively add other functions
